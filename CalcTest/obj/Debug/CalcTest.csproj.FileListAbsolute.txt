@@ -1,0 +1,7 @@
+D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\CalcTest\obj\Debug\CalcTest.csproj.AssemblyReference.cache
+D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\CalcTest\obj\Debug\CalcTest.csproj.CoreCompileInputs.cache
+D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\CalcTest\bin\Debug\CalcTest.exe.config
+D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\CalcTest\bin\Debug\CalcTest.exe
+D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\CalcTest\bin\Debug\CalcTest.pdb
+D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\CalcTest\obj\Debug\CalcTest.exe
+D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\CalcTest\obj\Debug\CalcTest.pdb
