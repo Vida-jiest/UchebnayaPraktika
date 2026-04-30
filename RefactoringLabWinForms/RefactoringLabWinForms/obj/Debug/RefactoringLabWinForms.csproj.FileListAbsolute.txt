@@ -8,3 +8,4 @@ D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\RefactoringLabWinForm
 D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.exe
 D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.pdb
 D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.MainForm.resources
+D:\AkbievVaidullaRuslanovij\УчебнаяПрактика\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.exe.config
